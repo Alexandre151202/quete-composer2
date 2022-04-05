@@ -1,0 +1,15 @@
+{
+    "name": "alex/quetecomposer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandre Saint-Martin",
+            "email": "alexandresaintmartin33@gmail.com"
+        }
+    ],
+    "require": {}
+}
